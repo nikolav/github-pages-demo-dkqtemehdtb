@@ -9,5 +9,6 @@ a:active {color:#ff0000;text-decoration:underline;}
 a:hover {color:#1f5b8b;text-decoration:underline;}
 a:visited {color:#1f5b8b;text-decoration:none;}
 .DefaultParagraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Artistic-Body { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
 .Body { text-align:left;margin:0px 0px 12px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
 .Normal { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#000000;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
